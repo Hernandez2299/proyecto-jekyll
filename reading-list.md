@@ -1,6 +1,6 @@
 ---
 title: Datos extra
-subtitle: Trabajo producido y creado por El fabuloso y estupendo Jeremy Hernandez UwU 
+subtitle: Datos extra
 layout: "page"
 icon: fa-book
 order: 3
