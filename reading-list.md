@@ -1,6 +1,6 @@
 ---
-title: Trabajo producido y creado por
-subtitle: El fabuloso y estupendo Jeremy Hernandez UwU 
+title: Datos extra
+subtitle: Trabajo producido y creado por El fabuloso y estupendo Jeremy Hernandez UwU 
 layout: "page"
 icon: fa-book
 order: 3
